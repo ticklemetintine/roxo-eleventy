@@ -24,7 +24,7 @@
    },
    "homepage": "https://github.com/Tanvir9290/Roxo_eleventy#readme",
    "dependencies": {
-      "@11ty/eleventy": "^0.12.1",
+      "@11ty/eleventy": "^1.0.1",
       "@11tyrocks/eleventy-plugin-emoji-readtime": "^1.0.1",
       "@bookshop/browser": "3.3.3",
       "@bookshop/eleventy-bookshop": "3.3.3",
