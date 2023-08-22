@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
 npm install
+npm run bookshop-sass:build
 npm run gulp:build
